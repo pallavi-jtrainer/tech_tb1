@@ -2,3 +2,6 @@ this is the first file
 for git
 this will be staged and commit
 finally it will be pushed to the remote repo
+Pushed it into remote
+working fine
+so far so good
